@@ -329,7 +329,7 @@ export default function HomePage() {
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="flex items-center space-x-6">
                 <p className="text-gray-400 text-sm">
-                  © 2024 Faysys Technologies. All rights reserved.
+                  © 2025 Faysys Technologies. All rights reserved.
                 </p>
                 <div className="hidden md:flex items-center space-x-4">
                   <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200 text-sm">

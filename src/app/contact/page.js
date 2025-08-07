@@ -140,7 +140,7 @@ export default function ContactPage() {
           {/* Footer */}
           <div className="text-center mt-12 pt-8 border-t border-gray-100">
             <p className="text-sm text-gray-500">
-              © 2024 Faysys Technologies. All rights reserved.
+              © 2025 Faysys Technologies. All rights reserved.
             </p>
           </div>
         </div>
