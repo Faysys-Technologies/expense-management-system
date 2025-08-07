@@ -1,31 +1,31 @@
 # Faysys Expense Management System - Demo
 
-A modern, full-stack expense management application demo built with Next.js, Firebase, and Tailwind CSS. This demo showcases a comprehensive expense management system that allows employees to submit expense reports and administrators to review and approve them.
+A modern frontend demo of an expense management application built with Next.js and Tailwind CSS. This interactive demo showcases the user interface and workflow design of a comprehensive expense management system, allowing visitors to experience how employees would submit expense reports and how administrators would review and approve them - all with simulated data for demonstration purposes.
 
 ## 🚀 Demo Features
 
 ### For Employees
-- **User Authentication**: Secure login/registration with Firebase Auth
-- **Expense Submission**: Create and submit expense reports with attachments
-- **File Upload**: Support for JPG, PNG, PDF, DOC, DOCX attachments (up to 10MB)
-- **Bulk Import**: Import expenses from Excel (.xlsx, .xls) or CSV files
-- **Expense Management**: View, edit, and delete pending expenses
-- **Real-time Status**: Track approval status of submitted expenses
-- **Profile Management**: Update personal information and view expense history
+- **Interactive UI**: Experience the user interface and workflow design
+- **Expense Submission**: Create and submit expense reports (demo mode)
+- **File Upload**: See the file upload interface and validation
+- **Bulk Import**: View the Excel/CSV import functionality
+- **Expense Management**: Navigate through expense management screens
+- **Status Tracking**: See how approval status is displayed
+- **Profile Management**: Explore user profile and settings interface
 
 ### For Administrators
-- **Admin Dashboard**: Overview of all expenses with statistics
-- **Expense Review**: Approve or reject expense submissions
-- **User Management**: View and manage all users in the system
-- **Advanced Filtering**: Filter expenses by status, user, and search terms
-- **Bulk Operations**: Process multiple expenses efficiently
+- **Admin Dashboard**: Interactive dashboard with mock statistics
+- **Expense Review**: Experience the approval/rejection workflow
+- **User Management**: Navigate through user management interface
+- **Advanced Filtering**: Test search and filter functionality
+- **Bulk Operations**: See bulk processing interface
 
 ### Technical Features
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile
-- **Real-time Updates**: Live status updates and notifications
-- **Secure File Storage**: Firebase Storage for secure file management
-- **Role-based Access**: Different interfaces for employees and administrators
 - **Modern UI/UX**: Clean, intuitive interface with Tailwind CSS
+- **Interactive Components**: Fully functional UI with mock data
+- **Role-based Interface**: Different views for employees and administrators
+- **Demo Mode**: All features work with sample data for demonstration
 
 ## 📸 Demo Screenshots
 
@@ -47,15 +47,12 @@ A modern, full-stack expense management application demo built with Next.js, Fir
 ### Mobile Responsive
 ![Mobile Demo 5](/public/demo-5.png)
 
-## 🛠️ Tech Stack
+## 🛠️ Demo Tech Stack
 
 - **Frontend**: Next.js 15, React 19, Tailwind CSS
-- **Backend**: Next.js API Routes, Firebase Admin SDK
-- **Database**: Firebase Firestore
-- **Authentication**: Firebase Authentication
-- **File Storage**: Firebase Storage
 - **UI Components**: Lucide React Icons, Headless UI
 - **Styling**: Tailwind CSS with custom design system
+- **Demo Data**: Mock data for demonstration purposes
 
 ## 🚀 Live Demo
 
@@ -63,7 +60,7 @@ Experience the full application demo at: [Demo Link](https://your-demo-url.com)
 
 ## 📋 Demo Access
 
-This is a demonstration application showcasing the capabilities of the Faysys Expense Management System. For full access to the complete application with all features:
+This is a demonstration application showcasing the capabilities of the Faysys Expense Management System. The demo uses mock data to simulate the full application experience. For the complete application with Firebase backend integration and real data management:
 
 ## 📞 Contact Information
 
@@ -75,24 +72,29 @@ This is a demonstration application showcasing the capabilities of the Faysys Ex
 - **Phone**: [+91 90421 42868](tel:+919042142868)
 
 ### Demo Features Available
-- ✅ Interactive expense submission workflow
-- ✅ Real-time dashboard with statistics
-- ✅ Admin approval/rejection system
-- ✅ User management interface
-- ✅ File upload and attachment handling
+- ✅ Interactive expense submission workflow (mock data)
+- ✅ Dashboard with sample statistics
+- ✅ Admin approval/rejection interface
+- ✅ User management interface (demo mode)
+- ✅ File upload interface demonstration
 - ✅ Responsive design across all devices
-- ✅ Role-based access control
+- ✅ Role-based access control simulation
 
 ### Full Application Features
-- 🔐 Complete user authentication system
+- 🔐 Complete user authentication system with Firebase Auth
 - 📊 Advanced reporting and analytics
 - 🔄 Automated approval workflows
 - 📱 Mobile application
-- 🔗 API integration capabilities
 - 🛡️ Enterprise-grade security
 - 📈 Custom dashboard configurations
 - 🔔 Real-time notifications
+- 📋 Bulk import/export functionality
 - 🎨 Custom branding options
+- 🗄️ Firebase Firestore database integration
+- ☁️ Firebase Storage for file management
+- 🔄 Real-time data synchronization
+- 📧 Email notifications and alerts
+- 🔐 Role-based access control with Firebase
 
 ## 🎯 Why Choose Faysys Expense Management?
 
